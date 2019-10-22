@@ -1,0 +1,30 @@
+button {
+  background-color: white;
+  text-decoration: none;
+  width: 90%;
+  height: 30%;
+  height: 47px;
+  border-radius: 50px;
+  border: solid 2px #303030;
+}
+button:hover {
+  background-color: #ff5b56;
+}
+
+.btn-content {
+  width: 130px;
+  height: 32px;
+  font-family: Roboto;
+  font-size: 1.4vw;
+  font-style: normal;
+  font-stretch: condensed;
+  line-height: 1.19;
+  letter-spacing: 0.64px;
+  text-align: left;
+  color: #000000;
+}
+.image1 {
+  width: 25%;
+  height: 25%;
+  margin-bottom: 8px;
+}
