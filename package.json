@@ -9,7 +9,7 @@
     "react-dom": "^16.10.2",
     "react-draggable": "^4.0.3",
     "react-iframe": "^1.8.0",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "x-react-flipclock": "^0.1.184153"
   },
   "scripts": {
